@@ -15,6 +15,8 @@ An AI-powered loan prediction app built using Streamlit, XGBoost, and Pandas tha
 
 🔧 Modular code that can be extended for deeper analytics
 
+
+
 🚀 Features
 
 
@@ -32,10 +34,20 @@ An AI-powered loan prediction app built using Streamlit, XGBoost, and Pandas tha
 
  
 UI	(Streamlit)
+
+
 ML Model	(XGBoost Classifier)
+
+
 Data Prep	(Pandas, NumPy)
+
+
 Backend Logic	(Scikit-learn)
+
+
 Deployment	(Streamlit Sharing)
+
+
 
 📸 App Screenshots 
 
