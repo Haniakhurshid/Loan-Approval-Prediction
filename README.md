@@ -42,7 +42,8 @@ An AI-powered loan prediction app built using Streamlit, XGBoost, and Pandas tha
 
 ![App Screenshot 1](https://github.com/user-attachments/assets/828027ea-e197-4df2-9c6e-e16c5f251cf2)
 
-![App Screenshot 2](https://github.com/user-attachments/assets/41900d70-a840-4cbb-bebc-7549f492cce3)
+![App Screenshot 2](https://github.com/user-attachments/assets/5d8562e1-fac2-47a1-9157-887e912caa55)
+
 
 
 ---
